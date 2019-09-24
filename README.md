@@ -1,6 +1,6 @@
 # Agency Leeds Ltd
 
-This repository contains any public and legally binding terms and conditions, terms of service or any other public legal document which may be displayed within the [agencyleeds.com](https://agencyleeds.com/) website, [agencyleeds.co.uk](https://agencyleeds.co.uk/) website and/or [leeds.agency](https://leeds.agency/) website, or any public application, publication or other material produced by Agency Leeds Ltd.
+This repository contains any public and legally binding terms and conditions, terms of service or any other public legal document which may be displayed within the [agencyleeds.com](https://agencyleeds.com/) website, [agencyleeds.co.uk](https://agencyleeds.co.uk/) website and/or [leeds.agency](https://leeds.agency/) website, or any public or private application, publication or other public or private material produced by Agency Leeds Ltd.
 
 The documents contained in this repository are version controlled using git to ensure correct timestamp modification history to indemnify and protect Agency Leeds Ltd from any accusation of modification and/or correction of any document after acceptance by any client using Agency Leeds Ltd services, products and/or goods.
 
