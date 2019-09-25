@@ -1,4 +1,4 @@
-*Please read these standard terms and conditions carefully. Any purchase or use of our services implies that you have read and have accepted our terms and conditions.*
+**Please read these standard terms and conditions carefully. Any purchase or use of our services implies that you have read and have accepted our terms and conditions.**
 
 ##Definitions
 
@@ -117,4 +117,4 @@ Version control and timestamp modification of the terms and conditions herein ar
 
 Acceptance of the terms and conditions herein is of binding agreement and shall be governed by UK law.
 
-*E & OE.*
+**E & OE.**
