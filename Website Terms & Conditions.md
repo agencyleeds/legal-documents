@@ -8,7 +8,7 @@ The term ‘we’ means Agency Leeds Ltd the owner of the website, application, 
 
 The term ‘you’ refers to the user or viewer of our website, application, content and/or material (and "your" will be construed accordingly).
 
-Our website, application, content and/or material may cookies. By using our website, application, content and/or material and agreeing to these terms and conditions, you consent to our use of cookies in accordance with the terms of our cookies policy.
+Our website, application, content and/or material may use cookies. By using our website, application, content and/or material and agreeing to these terms and conditions, you consent to our use of cookies in accordance with the terms of our cookies policy.
 
 ## Use of this Website, Application, Content and/or Material
 
