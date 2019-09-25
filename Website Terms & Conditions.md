@@ -40,11 +40,11 @@ You are granted a licence to download, store, view, edit, use, reproduce, copy, 
 
 You are not permitted to:
 
-*republish material from our website, application, content and/or material (including republication on/in another website, application, content and/or material);
-*sell, rent, license, sublicense, lease, distribute, copy, duplicate, publish or reproduce material from the website, application, content and/or material and any material or any part thereof for use by any third party;
-*exploit material on/in our website, application, content and/or material for a commercial purpose;
-*use any material in any way that is unlawful or in breach of any person's legal rights under any applicable law, or in any way that is offensive, indecent, discriminatory or otherwise objectionable.
-*Reverse engineer our website, application, content and/or material.
+* republish material from our website, application, content and/or material (including republication on/in another website, application, content and/or material);
+* sell, rent, license, sublicense, lease, distribute, copy, duplicate, publish or reproduce material from the website, application, content and/or material and any material or any part thereof for use by any third party;
+* exploit material on/in our website, application, content and/or material for a commercial purpose;
+* use any material in any way that is unlawful or in breach of any person's legal rights under any applicable law, or in any way that is offensive, indecent, discriminatory or otherwise objectionable.
+* Reverse engineer our website, application, content and/or material.
 
 If you breach these terms and conditions in any way then the licence granted to you will be automatically terminated upon such breach and Agency Leeds Ltd may take such action as we deem appropriate to deal with the breach, including suspending your access to the website, application, content and/or material, prohibiting you from accessing the website, application, content and/or material, blocking computers using your IP address from accessing the website, application, content and/or material, contacting your internet service provider to request that they block your access to the website, application, content and/or material and/or bringing court proceedings against you.
 
