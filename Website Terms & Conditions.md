@@ -2,7 +2,7 @@ This website terms and conditions template is based on a free document supplied 
 
 ## Introduction
 
-Welcome to our website, application, content and/or material. If you continue to browse and use this website, application, content and/or material you are agreeing to comply with and be bound by the following terms and conditions of use which govern our relationship with you in relation to this web site. If you disagree with any part of these terms and conditions, please do not use our website, application, content and/or material.
+Welcome to our website, application, content and/or material. If you continue to browse and use this website, application, content and/or material you are agreeing to comply with and be bound by the following terms and conditions of use which govern our relationship with you in relation to this website, application, content and/or material. If you disagree with any part of these terms and conditions, please do not use our website, application, content and/or material.
 
 The term ‘we’ means Agency Leeds Ltd the owner of the website, application, content and/or material whose company registration number is 11988455 ("us" and "our" will be construed accordingly).
 
