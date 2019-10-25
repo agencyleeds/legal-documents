@@ -39,10 +39,6 @@ Facebook, WhatsApp, QQ, WeChat, QZone, Tumblr, Instagram, Twitter, Google+, Baid
 
 19. Entry into the competition will be deemed as acceptance of these terms and conditions.
 
-20. This promotion is in no way sponsored, endorsed or administered by, or associated with, Facebook, Twitter or any other Social Network listed in section 3 of these terms & conditions. You are providing your information to [……………..] and not to any other party. The information provided will be used in conjunction with the following Privacy Policy found at [http://…………………..].
+20. This promotion is in no way sponsored, endorsed or administered by, or associated with, Facebook, Twitter or any other Social Network listed in section 3 of these terms & conditions. You are providing your information to Agency Leeds Ltd and not to any other party. The information provided will be used in conjunction with the following Privacy Policy found at [https://agencyleeds.com/privacy-policy](https://agencyleeds.com/privacy-policy).
 
-Agency Leeds Ltd will judge the competition and decide on the winner, which will be picked at random from all complete entries via Twitter.
-Agency Leeds Ltd's decision as to those able to take part and selection of winners is final. No correspondence relating to the competition will be entered into.
-The entrant must be following @CompanyName on Twitter in order to enter.
-Agency Leeds Ltd shall have the right, at its sole discretion and at any time, to change or modify these terms and conditions, such change shall be effective immediately upon posting to this webpage.
-Agency Leeds Ltd reserves the right to cancel the competition if circumstances arise outside of its control.
+Agency Leeds Ltd will judge the competition and decide on the winner, which will be picked at random from all complete entries via Twitter. Agency Leeds Ltd's decision as to those able to take part and selection of winners is final. No correspondence relating to the competition will be entered into. The entrant must be following [https://twitter.com/agencyleeds](@agencyleeds) on Twitter and/or like and follow our [https://facebook.com/leedsagency](Facebook page) in order to enter. Agency Leeds Ltd shall have the right, at its sole discretion and at any time, to change or modify these terms and conditions, such change shall be effective immediately upon posting to this webpage. Agency Leeds Ltd reserves the right to cancel the competition if circumstances arise outside of its control.
