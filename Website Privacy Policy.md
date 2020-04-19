@@ -1,40 +1,40 @@
-This website privacy policy template is based on a free document supplied by The Legal Stop Limited through its website [thelegalstop.co.uk](http://www.thelegalstop.co.uk/)
+This privacy policy template is based on a free document supplied by The Legal Stop Limited through its website [thelegalstop.co.uk](http://www.thelegalstop.co.uk/)
 
-Your privacy is important to Agency Leeds Ltd. We are committed to safeguarding the privacy of our website visitors; this privacy statement sets out how we will treat your personal information.
+Your privacy is important to Agency Leeds Ltd. We are committed to safeguarding the privacy of our website visitors and software users; this privacy statement sets out how we will treat your personal information.
 
 ## Personal Data Collection
 
 Agency Leeds Ltd may collect, store and use the following kinds of personal information:
 
-1.  information about your computer and about your visits to and use of this websites (which may include your IP address, geographical location, browser type and version, referral source, entry page, exit page, length of visit, number of page views, route taken through this website, and similar information);
-2.  information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
+1.  information about your computer and about your visits to and use of this websites and about your usage of our software (which may include your IP address, geographical location, browser or device type and version, referral source, entry page, exit page, length of visit, number of page views, route taken through this website or our software, and similar information);
+2.  information relating to any transactions carried out between you and us on or in relation to this website or our software, including information relating to any purchases you make of our goods or services;
 3.  information that you provide to us for the purpose of registering with us;
-4.  information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters; and
+4.  information that you provide to us for the purpose of subscribing to our website and software services, email notifications and/or newsletters; and
 5.  any other information that you choose to send to us.
 
 ## Using Personal Data
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy statement or in relevant parts of the website.
+Personal information submitted to us via this website and our software will be used for the purposes specified in this privacy statement or in relevant parts of the website.
 
 We may use your personal data to:
 
-1.  administer the website;
-2.  improve your browsing experience;
-3.  enable your use of the services available on the website;
-4.  send to you goods purchased via the website, and supply to you services purchased via the website;
+1.  administer the website and our software;
+2.  improve your browsing and/or software user experience;
+3.  enable your use of the services available on the website and in our software;
+4.  send to you goods purchased via the website or our software, and supply to you services purchased via the website or our software;
 5.  send statements and invoices to you, and collect payments from you;
 6.  send you general non-marketing commercial communications;
 7.  send you email notifications which you have specifically requested;
 8.  send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email and you can inform us at any time if you no longer require marketing communications; and
-9.  deal with enquiries and complaints made by or about you relating to the website.
+9.  deal with enquiries and complaints made by or about you relating to the website or our software.
 
 ## Personal Data Security
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-Agency Leeds Ltd will store all the personal data you provide on its secure servers. Information relating to electronic transactions entered into via this website will be protected by encryption technology.
+Agency Leeds Ltd will store all the personal data you provide on its secure servers. Information relating to electronic transactions entered into via this website or our software will be protected by encryption technology.
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password except when you log in to the website.
+You are responsible for keeping your password and user details confidential. We will not ask you for your password except when you log in to the website or our software.
 
 ## Disclosures
 
@@ -53,7 +53,7 @@ Except as provided in this privacy statement, we will not provide your informati
 
 Information that Agency Leeds Ltd collects may be stored and processed in and transferred between any of the countries in which we operate to enable the use of the information in accordance with this privacy statement.
 
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
+In addition, personal information that you submit for publication on the website or in our software may be published on the internet and/or in our software and will be available around the world.
 
 ## Your Rights
 
@@ -74,6 +74,6 @@ We may also notify you of changes to our privacy statement by email.
 
 ## Other websites
 
-The website contains links to other websites that are not under the control of and are not maintained by Agency Leeds Ltd. We are not responsible for the content or reliability of the linked websites. Agency Leeds Ltd provides these links for your convenience only but does not endorse the material on these sites.
+Our website and software may contain links to other websites or software that are not under the control of and are not maintained by Agency Leeds Ltd. We are not responsible for the content or reliability of the linked websites or software. Agency Leeds Ltd provides these links for your convenience only but does not endorse the material on these sites.
 
-Version control and timestamp modification of this document is historically stored and maintained at our [GitHub Repository](https://github.com/agencyleeds/legal-documents).
+Version control and timestamp modification for changes of this document is historically stored and maintained at our [GitHub Repository](https://github.com/agencyleeds/legal-documents).
